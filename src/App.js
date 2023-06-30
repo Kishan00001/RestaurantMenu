@@ -4,5 +4,5 @@ import Restaurant from './Component/Basics/Restaurant';
 const App = () => {
     // return (<Restaurant></Restaurant>    );
     return <Restaurant/>;
-};
+}
 export default App;
