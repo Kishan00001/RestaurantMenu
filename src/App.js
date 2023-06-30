@@ -1,6 +1,8 @@
 import React from 'react';
-import Temp from './Component/weather/temp';
+import Restaurant from './Component/Basics/Restaurant';
+
 const App = () => {
-    return <Temp/>;
+    // return (<Restaurant></Restaurant>    );
+    return <Restaurant/>;
 };
 export default App;
